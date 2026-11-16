@@ -27,4 +27,5 @@ New versions install themselves. No account, no server, no statistics: everythin
 
 Author / Автор: [Konvertov](https://t.me/konvertov)
 
-This repository holds only the release downloads. / В этом репозитории только файлы для скачивания.
+This repository holds the release downloads. Source code (GPL-3.0): [Konvertov/AImeter](https://github.com/Konvertov/AImeter).
+Здесь лежат файлы для скачивания. Исходный код (GPL-3.0): [Konvertov/AImeter](https://github.com/Konvertov/AImeter).
