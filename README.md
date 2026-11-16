@@ -25,6 +25,12 @@ New versions install themselves. No account, no server, no statistics: everythin
 
 Новые версии ставятся сами. Без аккаунта, без сервера, без сбора статистики: всё остаётся на вашем компьютере.
 
+## Code signing policy
+
+Windows releases are signed through the SignPath Foundation program for open-source projects (application in review; until it is approved, builds are unsigned). Details: [code signing policy](https://github.com/Konvertov/AImeter#code-signing-policy) · [privacy policy](https://github.com/Konvertov/AImeter/blob/main/PRIVACY.md).
+
+Free code signing provided by [SignPath.io](https://about.signpath.io), certificate by [SignPath Foundation](https://signpath.org)
+
 Author / Автор: [Konvertov](https://t.me/konvertov)
 
 This repository holds the release downloads. Source code (GPL-3.0): [Konvertov/AImeter](https://github.com/Konvertov/AImeter).
